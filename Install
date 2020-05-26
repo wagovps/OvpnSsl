@@ -1,5 +1,5 @@
 #!/bin/bash
-# Made by Hiratechi
+# Made by WaGo-VPS
 
 MYIP=`ifconfig eth0 | awk 'NR==2 {print $2}'`
 MYIP2="s/xxxxxxxxx/$MYIP/g";

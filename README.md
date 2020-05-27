@@ -19,5 +19,5 @@ Customized Squid error page<br>
 Addons: Privoxy & DNS Squid<br><br>
 <p align="center"><big>Run this command</big>
 <br>
-<b>bash -c "$(wget https://git.io/fjCbn -qO-)"</b>
+<b>bash -c "$(wget https://github.com/wagovps/OvpnSsl/blob/master/Install -qO-)"</b>
 </p>

@@ -51,7 +51,7 @@ do
 		echo "⚠️ Automatically cancelled if wrong"
 		echo "VPS Provider has been chosen"
 		sleep 2
-		wget -O deb9hiratechi https://raw.githubusercontent.com/Hira20/VPSauto/master/do && chmod +x deb9hiratechi && ./deb9hiratechi
+		wget -O deb9hiratechi https://raw.githubusercontent.com/wagovps/OvpnSsl/master/do && chmod +x deb9hiratechi && ./deb9hiratechi
 		;;
 		2)
 		clear
@@ -62,7 +62,7 @@ do
 		echo "⚠️ Automatically cancelled if wrong"
 		echo "VPS Provider has been chosen"
 		sleep 2
-		wget -O deb9hiratechi https://raw.githubusercontent.com/Hira20/VPSauto/master/linode && chmod +x deb9hiratechi && ./deb9hiratechi
+		wget -O deb9hiratechi https://raw.githubusercontent.com/wagovps/OvpnSsl/master/linode && chmod +x deb9hiratechi && ./deb9hiratechi
 		;;
 		3)
 		clear
@@ -73,7 +73,7 @@ do
 		echo "⚠️ Automatically cancelled if wrong"
 		echo "VPS Provider has been chosen"
 		sleep 2
-		wget -O deb9hiratechi https://raw.githubusercontent.com/Hira20/VPSauto/master/vultr && chmod +x deb9hiratechi && ./deb9hiratechi
+		wget -O deb9hiratechi https://raw.githubusercontent.com/wagovps/OvpnSsl/master/vultr && chmod +x deb9hiratechi && ./deb9hiratechi
 		;;
 		4)
 		clear
@@ -98,7 +98,7 @@ do
 		echo "⚠️ Automatically cancelled if wrong"
 		echo "VPS Provider has been chosen"
 		sleep 2
-		wget -O deb9hiratechi https://raw.githubusercontent.com/Hira20/VPSauto/master/amazon && chmod +x deb9hiratechi && ./deb9hiratechi
+		wget -O deb9hiratechi https://raw.githubusercontent.com/wagovps/OvpnSsl/master/amazon && chmod +x deb9hiratechi && ./deb9hiratechi
 		;;
 		7)
 		clear

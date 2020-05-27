@@ -1,6 +1,6 @@
 #!/bin/bash
 # Created by http://www.vps-murah.net
-# Remodified by reputation
+# Remodified by WaGo-G
 
 export DEBIAN_FRONTEND=noninteractive
 OS=`uname -m`;
@@ -31,9 +31,8 @@ do
 		1)
 		clear
 		cat > /home/vps/public_html/client.ovpn <<-END
-		# Created by reputation aka Hiratechi
-		# TEAM Epiphany | www.pinoythread.com
-		# Discord Group : https://discord.gg/EHq4XjH
+		# Created by Warren aka WaGo-G
+		# TEAM Epiphany | www.wagovps.tk
 		# RULES [ NO TORRENT | NO DDOS | NO BULLSHIT PLS ]
 		client
 		dev tun
@@ -79,9 +78,8 @@ do
 		echo "</ca>" >> /home/vps/public_html/client.ovpn
 
 		cat > /home/vps/public_html/client.ovpn <<-END
-		# Created by reputation aka Hiratechi
-		# TEAM Epiphany | www.pinoythread.com
-		# Discord Group : https://discord.gg/EHq4XjH
+		# Created by Warren aka WaGo-G
+		# TEAM Epiphany | www.wagovps.tk
 		# RULES [ NO TORRENT | NO DDOS | NO BULLSHIT PLS ]
 		client
 		dev tun
@@ -127,9 +125,8 @@ do
 		2)
 		clear
 		cat > /home/vps/public_html/client.ovpn <<-END
-		# Created by reputation aka Hiratechi
-		# TEAM Epiphany | www.pinoythread.com
-		# Discord Group : https://discord.gg/EHq4XjH
+		# Created by Warren aka WaGo-G
+		# TEAM Epiphany | www.wagovps.tk
 		# RULES [ NO TORRENT | NO DDOS | NO BULLSHIT PLS ]
 		client
 		dev tun
@@ -175,9 +172,8 @@ do
 		echo "</ca>" >> /home/vps/public_html/client.ovpn
 
 		cat > /home/vps/public_html/clientssl.ovpn <<-END
-		# Created by reputation aka Hiratechi
-		# TEAM Epiphany | www.pinoythread.com
-		# Discord Group : https://discord.gg/EHq4XjH
+		# Created by Warren aka WaGo-G
+		# TEAM Epiphany | www.wagovps.tk
 		# RULES [ NO TORRENT | NO DDOS | NO BULLSHIT PLS ]
 		client
 		dev tun
@@ -223,9 +219,8 @@ do
 		3)
 		clear
 		cat > /home/vps/public_html/client.ovpn <<-END
-		# Created by reputation aka Hiratechi
-		# TEAM Epiphany | www.pinoythread.com
-		# Discord Group : https://discord.gg/EHq4XjH
+		# Created by Warren aka WaGo-G
+		# TEAM Epiphany | www.wagovps.tk
 		# RULES [ NO TORRENT | NO DDOS | NO BULLSHIT PLS ]
 		client
 		dev tun
@@ -271,9 +266,8 @@ do
 		echo "</ca>" >> /home/vps/public_html/client.ovpn
 
 		cat > /home/vps/public_html/clientssl.ovpn <<-END
-		# Created by reputation aka Hiratechi
-		# TEAM Epiphany | www.pinoythread.com
-		# Discord Group : https://discord.gg/EHq4XjH
+		# Created by Warren aka WaGo-G
+		# TEAM Epiphany | www.wagovps.tk
 		# RULES [ NO TORRENT | NO DDOS | NO BULLSHIT PLS ]
 		client
 		dev tun

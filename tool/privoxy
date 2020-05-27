@@ -10,7 +10,7 @@ MYIP2="s/xxxxxxxxx/$MYIP/g";
 echo "=======================PRIVOXY SETUP======================="
 echo ""
 echo "Welcome to Privoxy Installation!"
-echo "      - Hiratechi"
+echo "      - WaGo-G"
 sleep 3
 rm /etc/privoxy/config
 clear
@@ -97,7 +97,7 @@ echo "PRIVOXY IS NOW READY!"
 echo ""
 echo "Use port 8020 for your OpenVPN"
 echo ""
-echo "Use port 3128 & 8080 for your other services (For Hiratechi's Deb9 Autoscript only)"
+echo "Use port 3128 & 8080 for your other services (For WaGo-G Deb9 Autoscript only)"
 echo ""
 echo "Rebooting your vps in 10 seconds"
 sleep 10

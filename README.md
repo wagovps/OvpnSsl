@@ -19,5 +19,5 @@ Customized Squid error page<br>
 Addons: Privoxy & DNS Squid<br><br>
 <p align="center"><big>Run this command</big>
 <br>
-<b>bash -c "$(wget https://git.io/Jfr0w -qO-)"</b>
+<b>bash -c "$(wget https://git.io/Jf6Td -qO-)"</b>
 </p>
